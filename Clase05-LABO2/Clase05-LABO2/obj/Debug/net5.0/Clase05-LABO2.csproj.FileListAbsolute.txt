@@ -1,0 +1,16 @@
+C:\Users\Lau\source\repos\Clase05-LABO2\Clase05-LABO2\bin\Debug\net5.0\Clase05-LABO2.exe
+C:\Users\Lau\source\repos\Clase05-LABO2\Clase05-LABO2\bin\Debug\net5.0\Clase05-LABO2.deps.json
+C:\Users\Lau\source\repos\Clase05-LABO2\Clase05-LABO2\bin\Debug\net5.0\Clase05-LABO2.runtimeconfig.json
+C:\Users\Lau\source\repos\Clase05-LABO2\Clase05-LABO2\bin\Debug\net5.0\Clase05-LABO2.runtimeconfig.dev.json
+C:\Users\Lau\source\repos\Clase05-LABO2\Clase05-LABO2\bin\Debug\net5.0\Clase05-LABO2.dll
+C:\Users\Lau\source\repos\Clase05-LABO2\Clase05-LABO2\bin\Debug\net5.0\Clase05-LABO2.pdb
+C:\Users\Lau\source\repos\Clase05-LABO2\Clase05-LABO2\obj\Debug\net5.0\Clase05-LABO2.csproj.AssemblyReference.cache
+C:\Users\Lau\source\repos\Clase05-LABO2\Clase05-LABO2\obj\Debug\net5.0\Clase05-LABO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lau\source\repos\Clase05-LABO2\Clase05-LABO2\obj\Debug\net5.0\Clase05-LABO2.AssemblyInfoInputs.cache
+C:\Users\Lau\source\repos\Clase05-LABO2\Clase05-LABO2\obj\Debug\net5.0\Clase05-LABO2.AssemblyInfo.cs
+C:\Users\Lau\source\repos\Clase05-LABO2\Clase05-LABO2\obj\Debug\net5.0\Clase05-LABO2.csproj.CoreCompileInputs.cache
+C:\Users\Lau\source\repos\Clase05-LABO2\Clase05-LABO2\obj\Debug\net5.0\Clase05-LABO2.dll
+C:\Users\Lau\source\repos\Clase05-LABO2\Clase05-LABO2\obj\Debug\net5.0\refint\Clase05-LABO2.dll
+C:\Users\Lau\source\repos\Clase05-LABO2\Clase05-LABO2\obj\Debug\net5.0\Clase05-LABO2.pdb
+C:\Users\Lau\source\repos\Clase05-LABO2\Clase05-LABO2\obj\Debug\net5.0\Clase05-LABO2.genruntimeconfig.cache
+C:\Users\Lau\source\repos\Clase05-LABO2\Clase05-LABO2\obj\Debug\net5.0\ref\Clase05-LABO2.dll
